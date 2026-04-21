@@ -3,6 +3,9 @@ This is the repository for the final project of INFSCI 2160 data mining
 This project uses the news articles for political bias classification dataset from Kaggle
 https://www.kaggle.com/datasets/gandpablo/news-articles-for-political-bias-classification
 
+For embeddings, I used the below HuggingFace model
+https://huggingface.co/allenai/longformer-base-4096
+
 For zero shot classification, I used the below HuggingFace model
 https://huggingface.co/bucketresearch/politicalBiasBERT
 
